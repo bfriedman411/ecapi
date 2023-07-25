@@ -2,7 +2,7 @@ alembic==1.5.4
 autopep8==1.5.5
 blinker==1.4
 Bootstrap-Flask==1.5.1
-certifi==2020.12.5
+certifi==2023.7.22
 chardet==4.0.0
 click==7.1.2
 dnspython==2.1.0
